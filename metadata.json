@@ -1,0 +1,8 @@
+{
+  "name": "NexusResponse - Crisis Control",
+  "description": "An AI-driven crisis coordination system for hospitality venues, powered by Google Cloud Platform.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
